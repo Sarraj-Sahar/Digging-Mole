@@ -1,0 +1,1 @@
+enum HoleStatus { none, selected }

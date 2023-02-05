@@ -1,0 +1,6 @@
+TODO : 
+
+1.page navigation Animation from level to level  
+
+2. onDoubleTap ==> finalize selection and go to next level
+

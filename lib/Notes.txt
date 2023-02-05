@@ -1,0 +1,5 @@
+NOTES : 
+
+1.GridView.builder vs GridView.count
+When you have the large number of widgets, consider using$
+GridView.builder to get better performance.
